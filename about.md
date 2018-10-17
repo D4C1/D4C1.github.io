@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Blog about random things, could be about something new I learned or something that happened.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[moisesgsaa@gmail.com](mailto:moisesgsaa@gmail.com)
